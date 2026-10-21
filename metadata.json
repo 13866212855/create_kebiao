@@ -1,0 +1,6 @@
+{
+  "name": "教师周课程表排课与导出系统",
+  "description": "专为中小学及高校教师设计的个人周课程表制作与管理工具，支持自定义节次时间、颜色标签、一键复制排课、数据统计、打印及导出高颜值格式化Excel表格。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
